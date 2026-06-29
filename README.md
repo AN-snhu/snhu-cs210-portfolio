@@ -1,4 +1,4 @@
-# Corner Grocer - Item Usage Tracker
+# Corner Grocer - Item Tracker
 
 ## Project Summary
 The Corner Grocer application is a data analysis tool designed to track frequencies of inventory items. It reads text data from an input file (`CS210_Project_Three_Input_File.txt`), processes the lookups using C++, and outputs a data file (`frequency.dat`). It also utilizes a Python integration script (`report_generator.py`) to handle report generation, allowing user to view a list of all item frequencies as a text-based histogram.
